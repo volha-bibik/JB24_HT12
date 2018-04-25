@@ -1,0 +1,6 @@
+Newspaper, Times, 34, 30, 4, true
+Magazine, Playboy, 40, 50, 5, true
+ProgrammingBook, Learn Java, 1200, 700, Author1, 12+, 2011, Java, middle
+ScientificBook, New theory, 200, 300, Author2, 12+, 2015, math
+ProgrammingBook, Learn C++, 1400, 500, Author1, 12+, 2014, C++, begin
+ProgrammingBook, Learn Java, 600, 400, Author1, 12+, 2010, Java, begin
